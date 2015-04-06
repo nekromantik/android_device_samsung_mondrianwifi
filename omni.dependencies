@@ -2,13 +2,13 @@
   {
     "remote":       "omnirom",
     "repository": "android_device_samsung_msm8974-common",
-    "target_path": "device/samsung/msm8974-common"
+    "target_path": "device/samsung/msm8974-common",
 	"revision":     "android-5.0"
   },
   {
-    "remote":       "omnirom",
+    "remote":      "omnirom",
     "repository": "android_kernel_samsung_mondrianwifi",
-    "target_path": "kernel/samsung/mondrianwifi"
-	"revision":     "android-5.0"
+    "target_path": "kernel/samsung/mondrianwifi",
+	"revision":    "android-5.0"
   }
 ]
